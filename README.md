@@ -1,4 +1,4 @@
 # Human Computer Interaction
 ## Data Preprocessing
 
-Function 1:
+`preprocessing.py` will select the most informative clip given an entire json file
